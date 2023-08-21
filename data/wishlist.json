@@ -1,0 +1,14 @@
+[
+    {
+        "code": "VsCLBDbuOlAme7hX9nIsaQEoi9OsZ6oIP",
+        "name": "Name 2",
+        "brand": "Brand 2",
+        "description": "description 2",
+        "quantity": 83,
+        "price": 0.9,
+        "dosage_instruction": "dosage 2",
+        "requires_prescription": false,
+        "category": "category 2",
+        "user": "ebrader"
+    }
+]
